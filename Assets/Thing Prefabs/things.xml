@@ -1,0 +1,6 @@
+<things>
+<hammer weight="2" type = "tool" description="a good hammer will always come in handy"/>
+<iron weight="3" type="weapon" description="ou can get much further with a kind word and a good Iron than you can with a kind word alone."/>
+<mug weight="1" type="utensil" description="useful thing especially on long trips"/>
+</things>
+
